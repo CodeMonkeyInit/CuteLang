@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="bf-master">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/bf-master.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
